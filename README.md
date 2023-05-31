@@ -4,7 +4,7 @@ Team ID : C23-PS159
 
 Our Member :
 
-(ML) Fitrahuda Aulia (M284DSY2506) - Universitas Negeri Medan
+(ML) Fitrahuda Aulia (M284DSY2506) - Universitas Negeri Medan </br>
 (ML) Aissa Putri Pertiwi (M295DSY2469) - Universitas Padjadjaran
 (ML) Carica Deffa Yullinda ( M169DSY2146) - Universitas Gadjah Mada
 (CC) Rifqi Naufal (C146DSX0903) – Universitas Bengkulu
