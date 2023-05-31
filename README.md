@@ -12,7 +12,7 @@ Our Member :
 (MD) Muhammad Nur Salim (A361DSX3176) – Universitas Terbuka</br>
 
 **BotaniScan**</br>
-BotaniScan is a plant disease detection application by uploading photos of plant leaves and receiving immediate detection results. Also this app will give suggestions of stores that provide goods/materials needed to overcome plant diseases that have been detected. The initial</br>
+BotaniScan is a plant disease detection application by uploading photos of plant leaves and receiving immediate detection results. Also this app will give suggestions of stores that provide goods/materials needed to overcome plant diseases that have been detected. </br>
 </br>
 **Development Roadmap**</br>
 Kotlin</br>
